@@ -1,0 +1,21 @@
+button{
+	height: 50px;
+	width: 692px;
+	font-size: 35px;
+	background-color: hsl(240,50%,25%);
+	color: white;
+}
+
+.box {
+	height: 150px;
+	width: 150px;
+	background-color: hsl(0,0%,98%);
+	border: 10px solid hsl(240,50%,25%);
+	display: inline-block;
+	color: hsl(0,0%,15%);
+	text-align: center;
+	vertical-align: middle;
+	line-height: 150px;
+	font-size: 70px;
+	margin-bottom: 3px;
+};
